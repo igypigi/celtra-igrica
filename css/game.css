@@ -1,0 +1,10 @@
+#game {
+    background-color: lightgray;
+    overflow: hidden;
+}
+
+body {
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
