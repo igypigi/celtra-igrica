@@ -1,9 +1,8 @@
 =Porocilo=
 
-Naredil sem igrico, kjer igralec mece bombe na nasprotnika.
-Naucil sem se veliko novega o HTML 5 canvasu in tudi o JavaScriptu.
-Ker je fizikalni model zelo enostaven, sem se odlocil, da ne uporabim nobene knjiznice, saj to pripomore k manjsi velikosti kode.
-Igra se prilagaja razlicnim velikostim zaslona tako, da se canvas razsiri cez celoten zaslon.
-JavaScript koda je optimizirana za cim hitrejse izrisovanje, da je igra tekoca tudi na pocasnejsih mobilnih napravah.
-Igra ima zelo enostaven uporabniski vmesnik - samo en "gumb".
+Naredil sem igrico, kjer igralec mece bombe na nasprotnika. Naucil sem se veliko novega o HTML 5 canvasu in tudi o JavaScriptu. Ker je fizikalni model zelo enostaven, sem se odlocil, da ne uporabim nobene knjiznice, saj to pripomore k manjsi velikosti kode.
+Igra se prilagaja razlicnim velikostim zaslona tako, da se canvas razsiri cez celoten zaslon. JavaScript koda je optimizirana za cim hitrejse izrisovanje, da je igra tekoca tudi na pocasnejsih mobilnih napravah. Igra ima zelo enostaven uporabniski vmesnik - samo en "gumb".
 Igra deluje v vseh modernih brskalnikih, ki podpirajo (vsaj dolocen del) HTML 5.
+
+Z rezultatom sem kar zadovoljen, saj mi je v dokaj kratkem casu uspelo narediti tako super igrico. :)
+Ce bi se enkrat od zacetka delal igrico, bi najprej porabil dosti vec casa za nacrtovanje, saj sem imel veliko dela s spreminjanjem ze sprogramiranega. Morda bi probal najti kaksno boljso idejo, kaksno igrico naj bi sploh naredil.
