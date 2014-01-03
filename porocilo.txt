@@ -1,0 +1,9 @@
+=Porocilo=
+
+Naredil sem igrico, kjer igralec mece bombe na nasprotnika.
+Naucil sem se veliko novega o HTML 5 canvasu in tudi o JavaScriptu.
+Ker je fizikalni model zelo enostaven, sem se odlocil, da ne uporabim nobene knjiznice, saj to pripomore k manjsi velikosti kode.
+Igra se prilagaja razlicnim velikostim zaslona tako, da se canvas razsiri cez celoten zaslon.
+JavaScript koda je optimizirana za cim hitrejse izrisovanje, da je igra tekoca tudi na pocasnejsih mobilnih napravah.
+Igra ima zelo enostaven uporabniski vmesnik - samo en "gumb".
+Igra deluje v vseh modernih brskalnikih, ki podpirajo (vsaj dolocen del) HTML 5.
